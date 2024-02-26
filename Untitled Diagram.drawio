@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T09:00:54.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gPjosnG_UcYBR94Y22K9" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T11:12:29.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cxlzxyxChsOxx18BIaRe" version="23.1.6" type="github">
   <diagram name="Page-1" id="cklbVcNHN72N4mOux92v">
-    <mxGraphModel dx="5023" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5603" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,7 +277,10 @@
         <mxCell id="kZA3d1KxiRgSWn5RkE2X-18" value="Platinum Wire&lt;div&gt;Extruder&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1300" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kZA3d1KxiRgSWn5RkE2X-20" value="Chromium Plate&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-20" target="kZA3d1KxiRgSWn5RkE2X-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-20" value="Chromium Plate&lt;div&gt;Press&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kZA3d1KxiRgSWn5RkE2X-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-22" target="kZA3d1KxiRgSWn5RkE2X-24">
@@ -427,19 +430,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kZA3d1KxiRgSWn5RkE2X-68" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Platinum Gravel&lt;br&gt;Ore Crusher&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1410" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1370" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kZA3d1KxiRgSWn5RkE2X-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-70" target="kZA3d1KxiRgSWn5RkE2X-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kZA3d1KxiRgSWn5RkE2X-70" value="Salt Shard&lt;div&gt;T6 Grinder&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1190" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1220" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kZA3d1KxiRgSWn5RkE2X-72" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Platinum Ore&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1410" y="1050" width="120" height="60" as="geometry" />
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-72" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Platinum Ore&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-1370" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kZA3d1KxiRgSWn5RkE2X-74" value="Salt Crystal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1190" y="1050" width="120" height="60" as="geometry" />
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-74" value="Salt Crystal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-76" target="kZA3d1KxiRgSWn5RkE2X-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-76" target="kZA3d1KxiRgSWn5RkE2X-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-76" target="kZA3d1KxiRgSWn5RkE2X-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-76" value="Chromium Ingot&lt;div&gt;Furnace&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-78" target="kZA3d1KxiRgSWn5RkE2X-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-78" target="kZA3d1KxiRgSWn5RkE2X-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-78" value="Activated Chromium&lt;div&gt;Mixer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-86" value="Chromium Gravel&lt;div&gt;Mixer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-88" value="Activated Chromium&lt;div&gt;Mixer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
