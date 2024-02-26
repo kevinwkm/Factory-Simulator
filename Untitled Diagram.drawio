@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T17:42:11.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Obu9Bzv2CAdfGSD7qU-s" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T18:15:33.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jHJ8COtjZaBw0TsUvXbS" version="23.1.6" type="github">
   <diagram name="Page-1" id="cklbVcNHN72N4mOux92v">
     <mxGraphModel dx="6292" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="McgiRGSPzC1NFYn7cAQ9-1" value="Dark Gamma Reactor&lt;br&gt;Triple Assembler" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="3727" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="McgiRGSPzC1NFYn7cAQ9-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Cosmos Alloy Component&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="McgiRGSPzC1NFYn7cAQ9-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Cosmos Alloy Component&lt;br&gt;Triple Assember&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3720" y="210" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McgiRGSPzC1NFYn7cAQ9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="McgiRGSPzC1NFYn7cAQ9-4" target="McgiRGSPzC1NFYn7cAQ9-14" edge="1">
