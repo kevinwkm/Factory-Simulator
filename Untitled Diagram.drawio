@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T16:04:37.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cioP8jG7XmAgeU0H0_8c" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T16:14:43.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AaLAeou93vftOqPfnBN_" version="23.1.6" type="github">
   <diagram name="Page-1" id="cklbVcNHN72N4mOux92v">
-    <mxGraphModel dx="5990" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5888" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,10 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="McgiRGSPzC1NFYn7cAQ9-1" value="Dark Gamma Reactor&lt;br&gt;Triple Assembler" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="365" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="1005" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McgiRGSPzC1NFYn7cAQ9-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Cosmos Alloy Component&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="358" y="210" width="135" height="60" as="geometry" />
+          <mxGeometry x="998" y="210" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McgiRGSPzC1NFYn7cAQ9-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="McgiRGSPzC1NFYn7cAQ9-4" target="McgiRGSPzC1NFYn7cAQ9-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="-1580" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McgiRGSPzC1NFYn7cAQ9-12" value="Dark Gamma Reactor&lt;br&gt;Triple Assembler" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="1680" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kZA3d1KxiRgSWn5RkE2X-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="McgiRGSPzC1NFYn7cAQ9-14" target="kZA3d1KxiRgSWn5RkE2X-12">
           <mxGeometry relative="1" as="geometry" />
@@ -79,10 +79,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="McgiRGSPzC1NFYn7cAQ9-20" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Stellaris Alloy Component&lt;br&gt;Triple Assembler&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-960" y="350" width="130" height="60" as="geometry" />
+          <mxGeometry x="-320" y="350" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McgiRGSPzC1NFYn7cAQ9-22" value="Controller&lt;div&gt;Quad Assembler&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="McgiRGSPzC1NFYn7cAQ9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="McgiRGSPzC1NFYn7cAQ9-24" target="McgiRGSPzC1NFYn7cAQ9-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -496,16 +496,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kZA3d1KxiRgSWn5RkE2X-94" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Reinforced Chromagnum Alloy Component&lt;br&gt;Assembler&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1400" y="490" width="130" height="60" as="geometry" />
+          <mxGeometry x="-1030" y="490" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kZA3d1KxiRgSWn5RkE2X-96" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Stellaris Alloy Component&lt;br&gt;Triple Assembler&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="490" width="130" height="60" as="geometry" />
+          <mxGeometry x="160" y="490" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kZA3d1KxiRgSWn5RkE2X-98" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Stellaris Alloy Component&lt;br&gt;Triple Assembler&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="490" width="130" height="60" as="geometry" />
+          <mxGeometry x="-320" y="490" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kZA3d1KxiRgSWn5RkE2X-100" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Stabilized Chromagnum Alloy Component&lt;br&gt;Assembler&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1400" y="630" width="130" height="60" as="geometry" />
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-100" target="kZA3d1KxiRgSWn5RkE2X-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-100" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Stabilized Chromagnum Alloy Component&lt;br&gt;Workstation&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="630" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-104" target="kZA3d1KxiRgSWn5RkE2X-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-104" target="kZA3d1KxiRgSWn5RkE2X-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-104" target="kZA3d1KxiRgSWn5RkE2X-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-104" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Stabilized Chromagnum Alloy&lt;br&gt;Triple Alloy Smelter&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="770" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-106" target="kZA3d1KxiRgSWn5RkE2X-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-106" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Molybdenum Ingot&lt;br&gt;Furnace&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="910" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-108" target="kZA3d1KxiRgSWn5RkE2X-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-108" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Chromium Ingot&lt;br&gt;Furnace&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="910" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-110" target="kZA3d1KxiRgSWn5RkE2X-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-110" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Magnesium Ingot&lt;br&gt;Furnace&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="910" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-112" target="kZA3d1KxiRgSWn5RkE2X-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-112" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Activated Molybdenum&lt;br&gt;Triple Alloy Smelter&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="1050" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-114" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Activated&amp;nbsp;Magnesium&lt;br&gt;Furnace&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="1050" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-116" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Activated&amp;nbsp;Chromium&lt;br&gt;Furnace&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="1050" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-118" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Activated Molybdenum&lt;br&gt;Triple Alloy Smelter&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="1190" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
