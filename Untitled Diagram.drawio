@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T11:12:29.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cxlzxyxChsOxx18BIaRe" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T11:30:50.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="e8uo9exGg7nYNiAd30vL" version="23.1.6" type="github">
   <diagram name="Page-1" id="cklbVcNHN72N4mOux92v">
-    <mxGraphModel dx="5603" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6054" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -465,11 +465,23 @@
         <mxCell id="kZA3d1KxiRgSWn5RkE2X-78" value="Activated Chromium&lt;div&gt;Mixer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kZA3d1KxiRgSWn5RkE2X-86" value="Chromium Gravel&lt;div&gt;Mixer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-86" target="kZA3d1KxiRgSWn5RkE2X-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-86" value="Chromium Gravel&lt;div&gt;Ore Crusher&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-870" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kZA3d1KxiRgSWn5RkE2X-88" value="Activated Chromium&lt;div&gt;Mixer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZA3d1KxiRgSWn5RkE2X-88" target="kZA3d1KxiRgSWn5RkE2X-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-88" value="Salt Shard&lt;div&gt;T6 Grinder&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-90" value="Chromium Ore" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZA3d1KxiRgSWn5RkE2X-92" value="Salt Crystal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
